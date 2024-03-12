@@ -12,8 +12,7 @@ int main()
         cerr << "Oops! Unable to save session data!\n";
     else
     {
-        outfile << usr_name << ' '
-                << num_tries << ' '
-                << num_right << endl;
+        // outfile << usr_name << ' ' << num_tries << ' '
+        // << num_right << endl;
     }
 }
