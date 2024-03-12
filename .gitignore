@@ -1,0 +1,15 @@
+/.vscode
+[123456789].[123456789]
+bookstore
+[123456789].??
+
+chapter1/for
+chapter1/istream_input
+chapter1/read_sale_item
+chapter1/.vscode/settings.json
+chapter1/if
+chapter1/.vscode/tasks.json
+*/*.out
+*/*.o
+*.out
+*.o
