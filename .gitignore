@@ -13,3 +13,4 @@ chapter1/.vscode/tasks.json
 */*.o
 *.out
 *.o
+*/.vscode/*
